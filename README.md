@@ -25,6 +25,7 @@ curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 Install panel
 ```html
 git clone https://github.com/Nezixyan/hyperiump.git
+sudo apt -y install nodejs
 ```
 
 ```
