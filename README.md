@@ -18,6 +18,7 @@ Install CURL
 apt install curl
 ```
 
+Install NodeJS
 ```
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 ```
