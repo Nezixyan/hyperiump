@@ -13,7 +13,14 @@ Install GIT
 ```html
 apt install git
 ```
+Install CURL
+```
+apt install curl
+```
 
+```
+curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
+```
 Install panel
 ```html
 git clone https://github.com/Nezixyan/hyperiump.git
