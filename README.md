@@ -9,12 +9,12 @@ Update repositories
 apt update
 ```
 
-Install CURL
+Install GIT
 ```html
-apt install curl
+apt install git
 ```
 
 Install panel
 ```html
-bash <(curl 
+git clone https://github.com/Nezixyan/hyperiump.git
 ```
