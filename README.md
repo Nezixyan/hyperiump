@@ -29,7 +29,7 @@ git clone https://github.com/Nezixyan/hyperiump.git
 ```
 
 ```
-cd kubek-minecraft-dashboard
+cd hyperiump
 ```
 
 ```
