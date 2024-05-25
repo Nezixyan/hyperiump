@@ -18,3 +18,15 @@ Install panel
 ```html
 git clone https://github.com/Nezixyan/hyperiump.git
 ```
+
+```
+cd kubek-minecraft-dashboard
+```
+
+```
+npm install
+```
+
+```
+npm start
+```
